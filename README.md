@@ -6,12 +6,13 @@ I am a B.Tech student with a passion for software development and open-source co
 
 ## Skills
 
-- **Programming Languages:** Python, Dart
-- **Backend Development:** Node.js, Express
-- **Frontend Development:** HTML, CSS, JavaScript
 - **Mobile App Development:** Flutter, Android Development
+- **Programming Languages:** Python, Dart, C++, Javascript
+- **Backend Development:** Node.js, Express, mongodb
+- **Frontend Development:** HTML, CSS, JavaScript
 - **Version Control:** Git, GitHub
-
+- **Tools:** VsCode, Kaggle, Google Colab, Firebase, Render, AWS Basic
+  
 ## Projects
 
 Here are some of my notable projects:
